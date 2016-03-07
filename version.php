@@ -24,8 +24,8 @@
 
 defined('MOODLE_INTERNAL') || die();
 
-$plugin->version   = 2015090505;        // The current plugin version (Date: YYYYMMDDXX)
-$plugin->requires  = 2012112900;        // Requires this Moodle version
+$plugin->version   = 2016030400;        // The current plugin version (Date: YYYYMMDDXX)
+$plugin->requires  = 2015111600;        // Requires this Moodle version
 $plugin->component = 'block_turnitinstatus'; // Full name of the plugin (used for diagnostics)
 $plugin->release = '0.5';
 $plugin->maturity = MATURITY_STABLE;
