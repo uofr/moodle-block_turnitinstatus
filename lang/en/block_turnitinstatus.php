@@ -31,3 +31,4 @@ $string['labelfoo'] = 'Config label';
 $string['newblock:addinstance'] = 'Add a Turnitin Status block';
 $string['newblock:myaddinstance'] = 'Add a Turnitin Status block to my moodle';
 $string['pluginname'] = 'Turnitin Status';
+$string['turnitinstatus:addinstance'] = 'Add a new Turnitin Status block';
